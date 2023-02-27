@@ -7,3 +7,14 @@ form {
 input {
     background-color: aqua;
 }
+#a1{
+    width: 30%;
+    background-color: blueviolet;
+    margin: auto;
+
+}
+#a1:hover{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
