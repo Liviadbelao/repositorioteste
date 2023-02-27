@@ -4,3 +4,6 @@ form {
     width: 50%;
     margin: auto;
 }
+input {
+    background-color: aqua;
+}
