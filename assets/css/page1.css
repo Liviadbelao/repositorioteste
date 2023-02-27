@@ -7,6 +7,8 @@ form {
 
 input {
     background-color: aqua;
+    margin-bottom: 30px;
+   
 }
 
 #a1 {
@@ -28,11 +30,13 @@ input {
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
 
     border-radius: 10px;
+    margin-bottom: 30px;
+    
 
 }
 
 #a2:hover {
-    border-color: blue;
+    border-color: rgb(166, 49, 250);
 }
 
 #a3 {
@@ -41,10 +45,12 @@ input {
     -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
 
     border-radius: 10px;
+    margin-bottom: 30px;
+ 
     
 }
 
 #a3:hover {
-    border-color: blue;
+    border-color: rgb(140, 40, 240);
 
 }
