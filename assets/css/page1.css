@@ -4,32 +4,47 @@ form {
     width: 50%;
     margin: auto;
 }
+
 input {
     background-color: aqua;
 }
-#a1{
+
+#a1 {
     width: 30%;
     background-color: blueviolet;
     margin: auto;
 
 }
-#a1:hover{
+
+#a1:hover {
     cursor: pointer;
     color: white;
     background-color: black;
 }
-#a2{
-    box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-    -webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-    -moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
-    
-border-radius: 10px;
+
+#a2 {
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+
+    border-radius: 10px;
 
 }
-    #a3{
-        box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--webkit-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
--moz-box-shadow: 4px -1px 61px 9px rgba(0,0,0,0.44);
 
-border-radius: 10px;
-    }
+#a2:hover {
+    border-color: blue;
+}
+
+#a3 {
+    box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -webkit-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 4px -1px 61px 9px rgba(0, 0, 0, 0.44);
+
+    border-radius: 10px;
+    
+}
+
+#a3:hover {
+    border-color: blue;
+
+}
